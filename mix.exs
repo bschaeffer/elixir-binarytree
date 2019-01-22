@@ -1,4 +1,4 @@
-defmodule Sort.Mixfile do
+defmodule BinaryTree.Mixfile do
   use Mix.Project
 
   def project do
